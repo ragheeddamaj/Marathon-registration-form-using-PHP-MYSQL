@@ -24,7 +24,7 @@ if (!isset($_GET['id'])) {
 ?>
 
 <div class="row justify-content-center align-content-center h-100">
-	<div class="col-6 text-center">
+	<div class="col-12 col-lg-6 text-center">
 		<h2>
 			Congratulations:
 		</h2>
