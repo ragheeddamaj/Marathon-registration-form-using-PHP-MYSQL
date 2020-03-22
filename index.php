@@ -1,7 +1,7 @@
 <?php require_once "header.php"; ?>
 
 <div class="row justify-content-center align-content-center h-100">
-	<div class="col-6">
+	<div class="col-12 col-lg-6">
 		<div class="h-100 2-100 registerationFormContainer">
 			<div>
 				<h3>
